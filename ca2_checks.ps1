@@ -1,5 +1,5 @@
 #!/usr/bin/env pwsh
-# CA1 checks file
+# CA2 checks file
 # Peadar Grant
 
 $Files = @( "description.txt", "template.json", "setup.ps1", "demo.ps1", "teardown.ps1" )
